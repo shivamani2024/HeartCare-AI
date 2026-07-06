@@ -79,37 +79,41 @@ The model predicts whether a patient is at **Low Risk** or **High Risk** of hear
 | QR Code | qrcode |
 
 ---
-
 ## 📸 Application Preview
 
 ### 🏠 Dashboard
 
-![Dashboard](dashboard.png)
----
+![Dashboard](screenshots/dashboard.png)
 
-### ❤️ Heart Disease Prediction
-
-![Prediction](prediction.png)
----
-
-### 📊 Patient History
-
-![History](history.png)
----
-
-### 📄 Medical Report
-
-![Medical Report](report.png)
----
-### 📄 Generated PDF
-
-![Generated Report](report1.png)
 ---
 
 ### 👤 Register Patient
 
-![Register Patient](register.png)
+![Register Patient](screenshots/register.png)
+
 ---
+
+### ❤️ Heart Disease Prediction
+
+![Heart Prediction](screenshots/prediction.png)
+
+---
+
+### 📊 Patient History
+
+![Patient History](screenshots/history.png)
+
+---
+
+### 📄 Medical Report
+
+![Medical Report](screenshots/report.png)
+
+---
+
+### 📑 Generated PDF Report
+
+![Generated PDF](screenshots/report1.png)
 
 ## 🎯 Project Goal
 
