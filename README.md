@@ -84,26 +84,31 @@ The model predicts whether a patient is at **Low Risk** or **High Risk** of hear
 
 ### 🏠 Dashboard
 
-> *(Add dashboard screenshot here)*
-
+![Dashboard](dashboard.png)
 ---
 
 ### ❤️ Heart Disease Prediction
 
-> *(Add prediction page screenshot here)*
-
+![Prediction](prediction.png)
 ---
 
 ### 📊 Patient History
 
-> *(Add history page screenshot here)*
-
+![History](history.png)
 ---
 
 ### 📄 Medical Report
 
-> *(Add PDF report screenshot here)*
+![Medical Report](report.png)
+---
+### 📄 Generated PDF
 
+![Generated Report](report1.png)
+---
+
+### 👤 Register Patient
+
+![Register Patient](register.png)
 ---
 
 ## 🎯 Project Goal
